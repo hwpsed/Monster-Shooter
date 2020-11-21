@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2003613cce0fb294f897005443c38226, type: 3}
+  m_Name: Ruby Canon
+  m_EditorClassIdentifier: 
+  name: Ruby Canon
+  level: 1
+  artwork: {fileID: 21300000, guid: b07b683612a056b4292e629b63a7f072, type: 3}
+  bullet: {fileID: 11400000, guid: 5b9d02ca4a5e3ec40a3a0b121c2640f1, type: 2}
+  baseSpeed: 10
+  baseCritical: 20
+  baseDamage: 50
+  speedRate: 2
+  damageRate: 10
+  criticalRate: 2
+  damage: 0
+  critical: 0
+  speed: 0
+  bulletMultiple: 0
+  isUnlocked: 0
+  tier: 3
+  price: 500000

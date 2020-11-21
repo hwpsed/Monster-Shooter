@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 637d65217a27ad847a4da89e05796a16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WeapBut: {instanceID: 0}
+  - SkillBut: {instanceID: 0}
+  - ShopBut: {instanceID: 0}
+  - MoreBut: {instanceID: 0}
+  - WeaponOn: {instanceID: 0}
+  - WeaponOff: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
